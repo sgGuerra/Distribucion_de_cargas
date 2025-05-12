@@ -34,7 +34,7 @@ Esta aplicación calcula el campo eléctrico neto en el centro de una distribuci
 
 1. Clona el repositorio:
 ```bash
-git clone [url-de-tu-repositorio]
+git clone https://github.com/sgGuerra/Distribucion_de_cargas.git  
 ```
 
 2. Crea y activa un entorno virtual (opcional pero recomendado):
@@ -56,6 +56,7 @@ python carga_electrica.py
 ```
 
 En la interfaz gráfica:
+
 1. Ingresa la carga Q en microCoulombs (µC)
 2. Ingresa el radio a en metros (m)
 3. Haz clic en "Calcular" para ver los resultados
